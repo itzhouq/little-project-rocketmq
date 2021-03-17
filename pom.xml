@@ -60,26 +60,26 @@
             <version>1.0.0-RELEASE</version>
         </dependency>
 
-<!--        &lt;!&ndash; 小实战项目的mysql dubbo api &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>com.ruyuan2020.little.project</groupId>-->
-<!--            <artifactId>little-project-mysql-api</artifactId>-->
-<!--            <version>1.0.2-RELEASE</version>-->
-<!--        </dependency>-->
+        <!-- 小实战项目的mysql dubbo api -->
+        <dependency>
+            <groupId>com.ruyuan2020.little.project</groupId>
+            <artifactId>little-project-mysql-api</artifactId>
+            <version>1.0.2-RELEASE</version>
+        </dependency>
 
-<!--        &lt;!&ndash; 小实战项目的redis dubbo  api&ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>com.ruyuan2020.little.project</groupId>-->
-<!--            <artifactId>little-project-redis-api</artifactId>-->
-<!--            <version>1.0.1-RELEASE</version>-->
-<!--        </dependency>-->
+        <!-- 小实战项目的redis dubbo  api-->
+        <dependency>
+            <groupId>com.ruyuan2020.little.project</groupId>
+            <artifactId>little-project-redis-api</artifactId>
+            <version>1.0.1-RELEASE</version>
+        </dependency>
 
-<!--        &lt;!&ndash;小实战项目消息推送 dubbo服务的api接口&ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>com.ruyuan2020.little.project</groupId>-->
-<!--            <artifactId>little-project-message-api</artifactId>-->
-<!--            <version>1.0.0-RELEASE</version>-->
-<!--        </dependency>-->
+        <!--小实战项目消息推送 dubbo服务的api接口-->
+        <dependency>
+            <groupId>com.ruyuan2020.little.project</groupId>
+            <artifactId>little-project-message-api</artifactId>
+            <version>1.0.0-RELEASE</version>
+        </dependency>
 
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
