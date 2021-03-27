@@ -6,6 +6,7 @@ import cn.itzhouq.little.project.rocketmq.api.order.service.OrderService;
 import com.ruyuan.little.project.common.dto.CommonResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
@@ -15,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @date 2021/3/27 12:02
  */
 @RestController
+@RequestMapping(value = "/api/order")
 public class OrderController {
     /**
      * 订单service组件
